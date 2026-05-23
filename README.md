@@ -331,8 +331,8 @@ copies of the Software.
 
 **Your Name**
 
-[![GitHub](https://github.com/khalid-myprojects?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourprofile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github)](https://github.com/khalid-myprojects?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourprofile-0A66C2?style=for-the-badge&logo=linkedin)](\https://www.linkedin.com/in/khalid-imran-30b118336/)
 [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
 
 <br/>
